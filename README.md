@@ -1,0 +1,2 @@
+# welcome
+blog welcome page
